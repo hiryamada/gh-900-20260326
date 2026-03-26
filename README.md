@@ -3,6 +3,8 @@
 FastAPI を使用した Hello World API のサンプルプロジェクトです。
 テスト書き換え.
 
+#1 の作業が必要。
+
 ## 概要
 
 `GET /` エンドポイントにアクセスすると `{"message": "Hello World"}` を返す REST API です。
